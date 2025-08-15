@@ -31,20 +31,49 @@ Building **bookmarks for different report views** was time-consuming and require
 - `/Screenshots/` – Folder with screenshots (Power Query, model view, visuals, RLS)  
 
 
-![Alt text](./Screenshots/Screenshot%20114.png)
-![Alt text](./Screenshots/screenshot%20115.png)
-![Alt text](./Screenshots/screenshot%20116.png)
-![Alt text](./Screenshots/screenshot%20117.png)
-![Alt text](./Screenshots/screenshot%20118.png)
-![Alt text](./Screenshots/screenshot%20119.png)
-![Alt text](./Screenshots/screenshot%20121.png)
-![Alt text](./Screenshots/screenshot%20123.png)
-![Alt text](./Screenshots/screenshot%20124.png)
-![Alt text](./Screenshots/screenshot%20108.png)
-![Alt text](./Screenshots/screenshot%2095.png)
-![Alt text](./Screenshots/screenshot%2096.png)
-![Alt text](./Screenshots/screenshot%2097.png)
+![Screenshot 114](./Screenshots/Screenshot%20114.png)
 
+![Screenshot 115](./Screenshots/Screenshot%20115.png)
+
+![Screenshot 116](./Screenshots/Screenshot%20116.png)
+
+![Screenshot 117](./Screenshots/Screenshot%20117.png)
+
+![Screenshot 118](./Screenshots/Screenshot%20118.png)
+
+![Screenshot 119](./Screenshots/Screenshot%20119.png)
+
+![Screenshot 121](./Screenshots/Screenshot%20121.png)
+
+![Screenshot 123](./Screenshots/Screenshot%20123.png)
+
+![Screenshot 124](./Screenshots/Screenshot%20124.png)
+
+![Screenshot 108](./Screenshots/Screenshot%20108.png)
+
+![Screenshot 95](./Screenshots/Screenshot%2095.png)
+
+![Screenshot 96](./Screenshots/Screenshot%2096.png)
+
+![Screenshot 97](./Screenshots/Screenshot%2097.png)
+
+![Screenshot 98](./Screenshots/Screenshot%2098.png)
+
+![Screenshot 100](./Screenshots/Screenshot%20100.png)
+
+![Screenshot 101](./Screenshots/Screenshot%20101.png)
+
+![Screenshot 102](./Screenshots/Screenshot%20102.png)
+
+![Screenshot 103](./Screenshots/Screenshot%20103.png)
+
+![Screenshot 104](./Screenshots/Screenshot%20104.png)
+
+![Screenshot 105](./Screenshots/Screenshot%20105.png)
+
+![Screenshot 92](./Screenshots/Screenshot%2092.png)
+
+![Screenshot 94](./Screenshots/Screenshot%2094.png)
 
 
 ## Key Insights from the Power BI Report
