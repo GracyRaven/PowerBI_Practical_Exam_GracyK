@@ -51,6 +51,7 @@ Building **bookmarks for different report views** was time-consuming and require
 ![Screenshot 103](./Screenshots/Screenshot%20103.png)
 ![Screenshot 104](./Screenshots/Screenshot%20104.png)
 ![Screenshot 105](./Screenshots/Screenshot%20105.png)
+![Screenshot 106](./Screenshots/Screenshot%20106.png)
 ![Screenshot 92](./Screenshots/Screenshot%2092.png)
 ![Screenshot 94](./Screenshots/Screenshot%2094.png)
 
